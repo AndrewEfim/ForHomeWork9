@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<patients>
+<Patient>
+<name>Bobby</name>
+<lastName>Axelrod</lastName>
+<birth>12 06 1980</birth>
+<isSick>true</isSick>
+</Patient>
+<Patient>
+<name>Wendy</name>
+<lastName>Roads</lastName>
+<birth>15 11 1980</birth>
+<isSick>false</isSick>
+</Patient>
+<Patient>
+<name>Mike</name>
+<lastName>Wagner</lastName>
+<birth>12 12 1981</birth>
+<isSick>true</isSick>
+</Patient>
+<Patient>
+<name>Chuk</name>
+<lastName>Roads</lastName>
+<birth>11 10 1978</birth>
+<isSick>true</isSick>
+</Patient>
+</patients>
